@@ -1,0 +1,116 @@
+[
+    {
+        "type": "Specialist",
+
+        "items": [
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/General%20Physician.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Gynaecologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Orthopedic.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Dermatologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/ENT.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Sexologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Ophthalmologist.png"
+            }
+        ]
+    },
+    {
+        "type": "Super Specialist",
+
+        "items": [
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Endocrinologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Diabetologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Pulmonologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Gastroenterologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Cardiologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Rheumatologist%20.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Oncologist.png"
+            }
+        ]
+    },
+    {
+        "type": "Surgeons",
+
+        "items": [
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/General%20Surgeon.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Gastro%20Surgeon.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Plastic%20Surgeon.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Surgical%20Oncologist.png"
+            },
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Neuro%20Surgeon.png"
+            }
+        ]
+    },
+    {
+        "type": "Ayurveda",
+
+        "items": [
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Ayurveda.png"
+            }
+        ]
+    },
+    {
+        "type": "Homeopathy",
+
+        "items": [
+            {
+                "name": "General Physician",
+                "link": "https://bajajfinservhealth.azureedge.net/video_consult/specialits/Homeopath.png"
+            }
+        ]
+    }
+]

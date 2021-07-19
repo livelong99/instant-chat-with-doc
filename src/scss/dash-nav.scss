@@ -1,0 +1,49 @@
+$navItemHeight:80px;
+
+.navContainer{
+    position: fixed;
+    height: 100%;
+    width: 160px;
+
+    .navBar{
+        position: absolute;
+        width: 100%;
+        height: auto;
+        top: 50%;
+        transform: translateY(-50%);
+
+        .navSlide{
+            position: absolute;
+            right: 0px;
+            width: 8px;
+            border-radius: 10px;
+            height: $navItemHeight;
+            background-color: #5C2D90;
+            z-index: 100;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .navItem{
+            width: 100%;
+            height: $navItemHeight;
+            margin-top: 50px;
+            margin-bottom: 50px;
+
+            .navIcon{
+                height: 100%;
+                width: $navItemHeight;
+                margin-left: 50%;
+                transform: translateX(-50%);
+                border-radius: 10px;
+                background-color: #5b2d903a;
+                transition: all 0.3s ease-in-out;
+
+                svg{
+                    margin-top: 50%;
+                    margin-left: 50%;
+                    transform: translate(-50%, -50%);
+                }
+            }
+        }
+    }
+}

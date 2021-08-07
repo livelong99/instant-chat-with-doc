@@ -1,8 +1,8 @@
-#UI-UX of Chat App for Doctors and Patients
+# UI-UX of Chat App for Doctors and Patients
 
 Created with React, Javascript and Scss
 
-#Demo Link
+# Demo Link
 
 https://vast-dusk-44371.herokuapp.com/dashboard/chat
 
